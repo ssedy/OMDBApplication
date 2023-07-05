@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">OMDBApplication</string>
+    <string name="txt_btn_search">Search</string>
+    <string name="txt_search_prompt">Enter your search below:</string>
+    <string name="txt_hint">Title</string>
+    <string name="txt_content_desc">A poster goes here</string>
+    <string name="txt_search">Back to Search</string>
+    <string name="txt_cell_title">Title:%1$s</string>
+    <string name="txt_cell_year">Year:%1$s</string>
+    <string name="txt_cell_ID">IMDb ID:%1$s</string>
+    <string name="txt_cell_type">Type:%1$s</string>
+    <string name="txt_title">%1$s</string>
+    <string name="txt_rated">Rated:%1$s</string>
+    <string name="txt_director">Director:%1$s</string>
+    <string name="txt_plot">Plot:%1$s</string>
+    <string name="txt_genre">Genre:%1$s</string>
+    <string name="txt_runtime">Runtime:%1$s</string>
+    <string name="txt_release">Released:%1$s</string>
+    <string name="txt_language">Language(s):%1$s</string>
+    <string name="txt_imdb_rate">IMDb Rating:%1$s</string>
+    <string name="txt_awards">Awards:%1$s</string>
+    <string name="txt_link">%1$s</string>
+    <string name="txt_btn_reset">Reset</string>
+    <string name="txt_dialog">Click poster to close</string>
+    <string name="txt_lbl_poster">Poster(Click link to view):</string>
+</resources>
